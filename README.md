@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-booking health clinic appointments website**
 
-- 🌱 I’m currently learning **es6**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **adhamabuhantash20@gmail.com**
 
