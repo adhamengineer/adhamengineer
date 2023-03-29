@@ -1,7 +1,7 @@
 [![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adham Abu Hantash</h1>
 <h3 align="center">A full stack developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 # 💫 About Me:
 🔭 I’m currently working on E-booking health clinic appointments website<br>🌱 I’m currently learning NodeJs<br>📫 How to reach me adhamabuhantash20@gmail.com
