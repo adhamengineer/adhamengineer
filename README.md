@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 # 💫 About Me:
-🔭 I’m currently working on E-booking health clinic appointments website<br>🌱 I’m currently learning NodeJs<br>📫 How to reach me adhamabuhantash20@gmail.com
+🌱 I’m currently learning NodeJs<br>📫 How to reach me adhamabuhantash20@gmail.com
 
 
 ## 🌐 Socials:
