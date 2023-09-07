@@ -24,8 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamWebDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdhamWebDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img  alt="Coding" width="1000" src="https://freeyork.org/wp-content/uploads/2016/09/THE-DARK-KNIGHT-2008.gif"/>
