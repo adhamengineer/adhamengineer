@@ -32,9 +32,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<img  alt="Coding" width="1000" height="450" src="https://media.tenor.com/AgcHnOwgmvsAAAAC/spiderman-dancing.gif"/> <br/>
-
 [![](https://visitcount.itsvg.in/api?id=Adham-Hantash&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
